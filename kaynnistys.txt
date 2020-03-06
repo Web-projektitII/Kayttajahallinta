@@ -1,1 +1,1 @@
-Tämä on uuden projektin käynnistys.
+Tämä on uuden projektin tehtävän käynnistys.
